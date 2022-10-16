@@ -1,0 +1,26 @@
+
+ body{
+    
+    background-color: rgb(225, 243, 245);
+ }
+ h1{
+    text-align: center;
+    font-size: 60px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ 
+ 
+ .block {
+    height: 500px;
+ WIdth: 900PX;
+margin: auto 20px;
+margin-left: auto;
+margin-right: auto;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    background-color: beige ;
+    background-image: url(img.jpg);
+    
+ }
+  
